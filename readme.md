@@ -45,10 +45,8 @@ RentPay/
 - **RentPay.test.js**: JavaScript-based test scripts to ensure the smart contract functions as expected. (You can add test cases here).
 
 ## Developer Details
-- **Developer**: [Your Name]
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Developer**: [Shivam Goyal]
+
 
 ## Deployment 
 Chain Nmae: Educhain Open Campus 
