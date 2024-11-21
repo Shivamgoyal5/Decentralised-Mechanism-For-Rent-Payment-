@@ -19,7 +19,7 @@ The **RentPay** smart contract aims to revolutionize the rental payment system b
 - **Multi-Signature Ownership**: Expanding the owner role to a multi-signature wallet for more decentralized governance.
 - **Penalty System**: Implementing an automated penalty system for late payments that could deduct penalties directly from the payer's deposit.
 - **Integration with Decentralized Identity (DID)**: Allowing tenants to use decentralized identities for seamless verification and history tracking across multiple rental contracts.
-- **Enhanced Appeal Process**: Developing a more sophisticated appeal system where a committee of addresses (oracles) can vote on the outcome.
+- **Enhanced Appeal Process**: Developing a more sophisticated appeal system where a committee of addresses  can vote on the outcome.
 - **Scalability and Interoperability**: Adapting the contract for use on different blockchains and integrating it with existing property management systems.
 
 ## Project Structure
