@@ -14,7 +14,7 @@ The **RentPay** smart contract aims to revolutionize the rental payment system b
 - **Transparent Record-Keeping**: Tenants can view their details and entire payment history, promoting transparency.
 - **Event Logging**: Key actions such as adding tenants, recording payments, submitting appeals, and updating lists trigger events for easy tracking.
 
-## Future Scope
+## Future Scopes
 - **Automated Payment Processing**: Integrating with payment gateways to allow automatic payment logging and on-chain rent payments.
 - **Multi-Signature Ownership**: Expanding the owner role to a multi-signature wallet for more decentralized governance.
 - **Penalty System**: Implementing an automated penalty system for late payments that could deduct penalties directly from the payer's deposit.
